@@ -1,0 +1,41 @@
+blockquote {
+    color: #7156e2;
+    background-color: rgba(226, 148, 24, 0.35);
+}
+
+h1 {
+    color: rgb(37, 157, 102);
+}
+
+strong {
+    color: #00f;
+    color: #f00;
+}
+
+td {
+    color: rgb(226, 148, 24)
+}
+
+
+/* 註解 */
+
+.little {
+    font-family: DFKai-SB, BiauKai, arial;
+}
+
+th[colspan="4"] {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.text {
+    border: 1px solid green;
+    text-align: center;
+    letter-spacing: 1em;
+    line-height:  2em;
+}
+
+h1, blockquote {
+    color: #7156e2;
+    background-color: rgba(226, 148, 24, 0.35);
+}
